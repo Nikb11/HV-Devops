@@ -1,3 +1,8 @@
 New file to practice pending command 
 
-text 1
+text 1  //First commit 
+
+This is new line //second commit 
+
+This is new line //second commit 
+
